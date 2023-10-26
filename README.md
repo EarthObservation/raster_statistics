@@ -1,7 +1,4 @@
 # raster_statistics
-Python functions to compute raster statistics from rasters.
+Python functions to compute raster statistics such as area, min, max, mean, quantile from one or more raster datasets under certain conditions conditions.
 
-Functions were developed for project Eco vine goals Slovenia (EVG).
-There are functions to compute raster statistics like area, min, max, mean, quantile under conditions from one or more raster datasets.
-
-© ZRC SAZU, 2021
+Žiga Kokalj, Žiga Maroh, ZRC SAZU, 2021
